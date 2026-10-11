@@ -1,0 +1,37 @@
+{
+  "profile_name": "中文项目论文默认规范",
+  "page": {
+    "width_cm": 21,
+    "height_cm": 29.7,
+    "margins_cm": {"top": 2.54, "bottom": 2.54, "left": 3.17, "right": 3.17}
+  },
+  "body": {
+    "chinese_font": "宋体",
+    "latin_font": "Times New Roman",
+    "size_pt": 12,
+    "alignment": "both",
+    "line_spacing": 1.5,
+    "first_line_chars": 2,
+    "space_before_pt": 0,
+    "space_after_pt": 0
+  },
+  "heading1": {"chinese_font": "黑体", "latin_font": "Times New Roman", "size_pt": 18, "bold": true, "alignment": "center"},
+  "heading2": {"chinese_font": "黑体", "latin_font": "Times New Roman", "size_pt": 16, "bold": true, "alignment": "left"},
+  "heading3": {"chinese_font": "黑体", "latin_font": "Times New Roman", "size_pt": 14, "bold": true, "alignment": "left"},
+  "abstract": {"chinese_font": "楷体", "latin_font": "Times New Roman", "size_pt": 12, "alignment": "both"},
+  "caption": {"chinese_font": "宋体", "latin_font": "Times New Roman", "size_pt": 10.5, "alignment": "center"},
+  "table": {
+    "chinese_font": "宋体",
+    "latin_font": "Times New Roman",
+    "size_pt": 10.5,
+    "alignment": "center",
+    "vertical_alignment": "center",
+    "line_spacing": 1.2,
+    "top_bottom_border_pt": 1.5,
+    "header_border_pt": 1,
+    "header_bold": true
+  },
+  "code": {"chinese_font": "宋体", "latin_font": "Consolas", "size_pt": 10.5, "alignment": "left"},
+  "references": {"chinese_font": "宋体", "latin_font": "Times New Roman", "size_pt": 12, "alignment": "left"},
+  "spaces": {"remove_cjk_latin_boundaries": true, "preserve_english_word_spaces": true, "preserve_code_and_paths": true}
+}

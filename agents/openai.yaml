@@ -1,0 +1,6 @@
+interface:
+  display_name: "中文论文规范化"
+  short_description: "按学校模板与个人规范核查中文论文，统一字体、三线表、图表、公式和代码排版"
+  default_prompt: "使用$chinese-paper-normalization核查并规范化我指定的论文，优先遵循学校模板，保留正文事实、图片和公式，输出修订文档。"
+policy:
+  allow_implicit_invocation: true
