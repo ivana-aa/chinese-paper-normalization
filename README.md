@@ -110,4 +110,4 @@ python -B -m unittest discover -s tests -v
 
 [MIT License](LICENSE)，Copyright (c) 2026 ivana-aa。
 
-欢迎通过Issue报告有证据支持的排版问题，或提交改进；请勿附上未脱敏的论文、个人信息或医疗数据。
+欢迎通过Issue报告有证据支持的排版问题，或提交改进；请勿附上未脱敏的论文和个人信息。
